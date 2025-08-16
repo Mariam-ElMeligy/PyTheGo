@@ -8,6 +8,6 @@ This repository contains various Python practice tasks and mini-projects.
 - `Task2_bankingII/` – Simple Bank simulation Project (using OOP Concepts)
 - `Task3_Pandas_practice/` – Different-level questions to build intuitive about the famous python library
 - `Workshop_Data_Preprocessing_&_Visualization/` – Comperhensive Workshop with full Data Analysis Pipeline
-
+- `Regression_Task` - linear, multiple, polynomial Regression + full pipeline Machine learning project
 More to be added soon 🚀
 
