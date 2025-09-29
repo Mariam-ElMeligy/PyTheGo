@@ -14,14 +14,24 @@ This repository contains various Python practice tasks, mini and full pipeline p
 
 - `Regression_Task` - linear, multiple, polynomial Regression + full pipeline Machine learning project
 
-- `Classifcation_Task` - a binary classification model to predict the presence or absence of a medical condition using machine learning techniques. The goal is to achieve high generalization while minimizing critical errors, especially false negatives, to ensure timely medical diagnoses. 
+- `Classifcation_Task` -
+ a medical condition binary classification model (presence or absence) using machine learning techniques. The goal is to achieve high generalization while minimizing critical errors, especially false negatives, to ensure timely medical diagnoses. 
 
-- `Ml_Project` - (Mushroom Edibility Classification): 
-End-to-end ML pipeline achieving 99.8% accuracy in classifying mushrooms as edible or poisonous. Includes robust preprocessing, imbalance handling, feature selection, and hyperparameter tuning across 6 algorithms. Key features like odor, gill traits, and spore print color drive interpretability and model performance + Deployment-ready pipeline with serialized model for seamless real-world predictions.
+- `Ml_Project` - (Mushroom Edibility Classification) 
+99.8% accurate ML pipeline classifying edible vs. poisonous mushrooms using odor, gill traits, and spore prints. Features robust preprocessing, imbalance handling, and deployment-ready serialized models.
 
-- `Bank Marketing Classification` | 0.96+ AUC Score:
-A machine learning solution that predicts bank term deposit subscriptions with 96%+ AUC accuracy, significantly outperforming random guessing. The system uses advanced gradient boosting algorithms (XGBoost, CatBoost) with smart preprocessing to identify high-potential clients, enabling targeted marketing campaigns that increase conversion rates while reducing costs. Features dual preprocessing pipelines optimized for different model types and handles class imbalance through strategic weighting techniques.
+- `Bank Marketing Classification` - 
+96%+ AUC model predicting term deposit subscriptions using gradient boosting (XGBoost, CatBoost). Enables targeted campaigns with dual preprocessing pipelines and class imbalance handling.
 
-More to be added soon, Stay Tuned! 🚀
+- `Income Prediction DLModel` 
+Deep learning classifier predicting >$50K income from census data. Achieves 86.3% accuracy using embedding layers for categorical features. Built with TensorFlow/Keras.
+
+- `Deep Learning Optimization & Regularization Experiments`
+A comprehensive deep learning experiment comparing optimization strategies and regularization techniques. Systematically evaluates optimizers, batch sizes, dropout, L2 regularization, and early stopping to identify best practices for training robust neural networks on tabular data.
+.
+.
+.
+More to be added soon, 
+Stay Tuned! 🚀
 
 

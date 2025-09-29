@@ -1,0 +1,18 @@
+# Virtual environment folders
+venv/
+.venv/
+
+# Python bytecode cache
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE settings (optional but recommended)
+.vscode/
+.idea/
+
+# OS generated files (optional)
+.DS_Store
+Thumbs.db
