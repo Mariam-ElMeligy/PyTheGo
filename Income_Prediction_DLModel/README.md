@@ -1,6 +1,3 @@
-Here's the updated README with your improved results after adding the education embedding:
-
-```markdown
 # Adult Income Classification - Deep Learning Project
 
 A deep learning model to predict income levels (≤50K vs >50K) using the Adult Census Income dataset with hybrid embedding architecture. The model achieves **86.3% test accuracy** with excellent generalization between validation and test sets.
@@ -206,4 +203,3 @@ This project is for educational purposes.
 ---
 
 **Achievement**: Successfully built a robust income classification model with **86.3% test accuracy** by effectively utilizing embedding layers for categorical features, including the crucial education dimension that significantly boosted performance.
-```

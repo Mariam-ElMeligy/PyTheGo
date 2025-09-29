@@ -28,9 +28,11 @@ Deep learning classifier predicting >$50K income from census data. Achieves 86.3
 
 - `Deep Learning Optimization & Regularization Experiments`
 A comprehensive deep learning experiment comparing optimization strategies and regularization techniques. Systematically evaluates optimizers, batch sizes, dropout, L2 regularization, and early stopping to identify best practices for training robust neural networks on tabular data.
-.
-.
-.
+
+-
+
+-
+
 More to be added soon, 
 Stay Tuned! 🚀
 
